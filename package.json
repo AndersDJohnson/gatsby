@@ -45,7 +45,7 @@
     "loader-utils": "^0.2.15",
     "lodash": "^4.13.1",
     "loggy": "^0.3.2",
-    "markdown-it": "^6.0.2",
+    "markdown-it": "^15.0.3",
     "moment": "^2.11.2",
     "negotiator": "^0.6.1",
     "node-cjsx": "^1.0.0",
